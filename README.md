@@ -1,6 +1,6 @@
 # Sohee Moon ─ @soheetech
 
-![Untitled-1](https://github.com/soheetech/soheetech/assets/121299334/5a040233-270b-4b80-b66c-a9b91deb3660)
+![Untitled-1](https://github.com/soheetech/soheetech/assets/121299334/c08507a3-0d10-4644-b4c9-6a653cc82ee7)
 
 ### 👋🏻 Hi, there
 

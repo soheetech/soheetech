@@ -2,8 +2,8 @@
 
 ### 🚀 What I'm up to
 
-- 🏗️ **[@soheelabs](https://github.com/soheelabs)**: 주요 프로젝트와 기술 활동을 정리합니다.
-- ✍️ **[Tech Blog](https://soheetech.github.io/blog)**: 개발 과정에서 얻은 경험과 기술적 고민을 기록합니다.
+- 🏗️ **[@soheelabs](https://github.com/soheelabs)**: A collection of projects and technical work.
+- ✍🏻 **[Tech Blog](https://soheetech.github.io/blog)**: Notes on development experiences, technical decisions, and lessons learned.
 
 ### 💻 Tech Stack
 
